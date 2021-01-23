@@ -1,3 +1,7 @@
 fun main() {
-    println("Hello World!")
+
+    val a = "Hello"
+    val b = "World!"
+
+    println("$a $b")
 }
